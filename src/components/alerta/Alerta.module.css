@@ -1,0 +1,12 @@
+.error{
+  padding-block: 0.25rem;
+  text-align: center;
+  font-weight: 700;
+  color: red;
+}
+.success{
+  padding-block: 0.25rem;
+  text-align: center;
+  font-weight: 700;
+  color: rgb(6, 179, 6);
+}
